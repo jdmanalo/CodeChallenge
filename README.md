@@ -12,8 +12,8 @@ Simulates typing using an old-style mobile keypad (e.g., T9 input), including su
 - Modular and testable design
 
 ## Example
-Input : 22# -> B
-Input : 33# -> E
-Input : 227*# -> B
-Input : 4433555 555666# -> HELLO
-Input : 8 88777444666*664# -> Turinng
+- Input : 22# -> B
+- Input : 33# -> E
+- Input : 227*# -> B
+- Input : 4433555 555666# -> HELLO
+- Input : 8 88777444666*664# -> Turinng
