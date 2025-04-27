@@ -46,7 +46,7 @@
         }
         private bool IsValidInput(string input)
         {
-            return input.All(c => (c >= '2' && c <= '9') || c == '*' || c == '#');
+            return input.All(c => (c >= '2' && c <= '9') || c == '*' || c == '#' || c == ' ');
         }
     }
 
